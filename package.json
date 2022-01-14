@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Team-IC/Pro-Bot#readme",
   "dependencies": {
     "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
