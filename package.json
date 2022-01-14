@@ -1,0 +1,24 @@
+{
+  "name": "pro-bot",
+  "version": "1.0.0",
+  "description": "pro bot developed by devMirza",
+  "main": "bot.js",
+  "scripts": {
+    "test": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-IC/Pro-Bot.git"
+  },
+  "keywords": [
+    "best",
+    "dev",
+    "bot"
+  ],
+  "author": "DevMirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-IC/Pro-Bot/issues"
+  },
+  "homepage": "https://github.com/Team-IC/Pro-Bot#readme"
+}
