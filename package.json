@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Team-IC/Pro-Bot/issues"
   },
-  "homepage": "https://github.com/Team-IC/Pro-Bot#readme"
+  "homepage": "https://github.com/Team-IC/Pro-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
 }
